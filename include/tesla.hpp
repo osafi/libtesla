@@ -1039,7 +1039,7 @@ namespace tsl {
 
                 cfg::LayerPosX = 0;
                 cfg::LayerPosY = 0;
-                cfg::FramebufferWidth  = 448;
+                cfg::FramebufferWidth  = 1280;
                 cfg::FramebufferHeight = 720;
                 cfg::LayerWidth  = cfg::ScreenHeight * (float(cfg::FramebufferWidth) / float(cfg::FramebufferHeight));
                 cfg::LayerHeight = cfg::ScreenHeight;
